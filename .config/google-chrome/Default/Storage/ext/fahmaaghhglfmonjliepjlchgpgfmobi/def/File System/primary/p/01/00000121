@@ -1,0 +1,29 @@
+
+
+-------session starts-------
+
+[11-3 18:54:10.509] INFO: lsUserAddedMusicSourceIds=null
+[11-3 18:54:10.509] INFO: lsLastTrackFailureLoggingTime=null
+[11-3 18:54:20.322] INFO: Got the drag_and_drop directory
+[11-3 18:54:21.126] INFO: MediaGallery: name=/home/lucas/Music, galleryId=1, isMediaDevice=false, deviceId=undefined
+[11-3 18:54:21.127] INFO: MediaGallery: name=/home/lucas/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[11-3 18:54:21.127] INFO: MediaGallery: name=/home/lucas/Videos, galleryId=3, isMediaDevice=false, deviceId=undefined
+[11-3 18:54:21.130] INFO: Starts a quick scan on /home/lucas/Music
+[11-3 18:54:21.130] INFO: Iterating over dir / from source /home/lucas/Music
+[11-3 18:54:21.131] INFO: Starts a quick scan on /home/lucas/Pictures
+[11-3 18:54:21.131] INFO: Iterating over dir / from source /home/lucas/Pictures
+[11-3 18:54:21.131] INFO: Starts a quick scan on /home/lucas/Videos
+[11-3 18:54:21.131] INFO: Iterating over dir / from source /home/lucas/Videos
+[11-3 18:54:21.143] INFO: /home/lucas/Music does not contain music file
+[11-3 18:54:21.144] INFO: /home/lucas/Pictures does not contain music file
+[11-3 18:54:21.151] INFO: /home/lucas/Videos does not contain music file
+[11-3 18:54:21.152] INFO: lsUserSelectedDownloadDirId=null
+[11-3 18:54:21.154] INFO: lsDefaultDownloadLocationId=null
+[11-3 18:54:21.155] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[11-3 18:54:21.155] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[11-3 18:54:25.79] INFO: lsAppActivated=false
+[11-3 18:54:25.79] INFO: lsDragAndDropActivated=false
+[11-3 18:54:25.80] INFO: Nacl version: 1.0.467.4929
+[11-3 18:54:25.82] INFO: lsAppActivated=false
+[11-3 22:59:4.37] INFO: Network went offline, canceling delay timer.
+[11-3 22:59:7.536] INFO: Network came online, restarting delay timer.

@@ -1,0 +1,155 @@
+**** BEGIN LOGGING AT Sat Sep  7 22:38:48 2019
+
+Sep 07 22:38:48 *	*** Looking up your hostname...
+Sep 07 22:38:48 *	*** Checking Ident
+Sep 07 22:38:48 *	*** Found your hostname
+Sep 07 22:38:54 No channel joined. Try /join #<channel>
+Sep 07 22:38:57 *	*** No Ident response
+Sep 07 22:38:57 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Sep 07 22:38:57 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix 
+Sep 07 22:38:57 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Sat Sep  7 22:38:57 2019
+
+**** BEGIN LOGGING AT Sat Sep  7 22:38:57 2019
+
+Sep 07 22:38:57 *	Welcome to the freenode Internet Relay Chat Network manjaroi3
+Sep 07 22:38:57 *	Your host is weber.freenode.net[162.213.39.42/6667], running version ircd-seven-1.1.7
+Sep 07 22:38:57 *	This server was created Fri Feb 22 2019 at 19:46:41 UTC
+Sep 07 22:38:57 *	weber.freenode.net ircd-seven-1.1.7 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Sep 07 22:38:57 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Sep 07 22:38:57 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU KNOCK :are supported by this server
+Sep 07 22:38:57 *	CPRIVMSG CNOTICE WHOX ETRACE :are supported by this server
+Sep 07 22:38:57 *	There are 102 users and 80974 invisible on 30 servers
+Sep 07 22:38:57 *	36 :IRC Operators online
+Sep 07 22:38:57 *	31 :unknown connection(s)
+Sep 07 22:38:57 *	47999 :channels formed
+Sep 07 22:38:57 *	I have 6806 clients and 1 servers
+Sep 07 22:38:57 *	6806 8086 :Current local users 6806, max 8086
+Sep 07 22:38:57 *	81076 94773 :Current global users 81076, max 94773
+Sep 07 22:38:57 *	Highest connection count: 8087 (8086 clients) (1695757 connections received)
+Sep 07 22:38:57 *	- weber.freenode.net Message of the Day - 
+Sep 07 22:38:57 *	- Welcome to weber.freenode.net in California, USA.
+Sep 07 22:38:57 *	- Thanks to https://www.cloudsigma.com/ for sponsoring
+Sep 07 22:38:57 *	- this server!
+Sep 07 22:38:57 *	-  
+Sep 07 22:38:57 *	- WEBER, DAVID M. (1952-), an American fantasy and scifi
+Sep 07 22:38:57 *	- author. Best known for his 'Honor Harrington' series, his
+Sep 07 22:38:57 *	- works span several genres, including alternate history,
+Sep 07 22:38:57 *	- epic fantasy, military scifi and space opera. He's also
+Sep 07 22:38:57 *	- done wargame design mainly for the StarFire tabletop
+Sep 07 22:38:57 *	- boardgame series, a job which later evolved into the novel,
+Sep 07 22:38:57 *	- 'Insurrection' (collaboration with Steve White, published
+Sep 07 22:38:57 *	- in 1990).
+Sep 07 22:38:57 *	-  
+Sep 07 22:38:57 *	- Welcome to freenode - supporting the free and open source
+Sep 07 22:38:57 *	- software communities since 1998.
+Sep 07 22:38:57 *	-  
+Sep 07 22:38:57 *	- By connecting to freenode you indicate that you have read and
+Sep 07 22:38:57 *	- accept our policies and guidelines as set out on https://freenode.net
+Sep 07 22:38:57 *	-  
+Sep 07 22:38:57 *	- In the event that you observe behaviour that contravenes our policies,
+Sep 07 22:38:57 *	- please notify a volunteer staff member via private message, or send us an
+Sep 07 22:38:57 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Sep 07 22:38:57 *	- situation within a reasonable period of time, and we may request further
+Sep 07 22:38:57 *	- information or, as appropriate, involve other parties such as channel operators 
+Sep 07 22:38:57 *	- Group Contacts representing an on-topic group.
+Sep 07 22:38:57 *	-  
+Sep 07 22:38:57 *	- freenode runs an open proxy scanner.
+Sep 07 22:38:57 *	-  
+Sep 07 22:38:57 *	- If you are looking for assistance, you may be able to find a list of 
+Sep 07 22:38:57 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Sep 07 22:38:57 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Sep 07 22:38:57 *	- any of us at any time. Please note that freenode predominantly provides 
+Sep 07 22:38:57 *	- assistance via private message, and while we have a network channel the 
+Sep 07 22:38:57 *	- primary venue for support requests is via private message to a member 
+Sep 07 22:38:57 *	- of the volunteer staff team.
+Sep 07 22:38:57 *	-  
+Sep 07 22:38:57 *	- From time to time, volunteer staff may send server-wide notices relating to
+Sep 07 22:38:57 *	- the project, or the communities that we host. The majority of such notices
+Sep 07 22:38:57 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Sep 07 22:38:57 *	- do not miss them. Important messages relating to the freenode project, including
+Sep 07 22:38:57 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Sep 07 22:38:57 *	- global notices.
+Sep 07 22:38:57 *	-  
+Sep 07 22:38:57 *	- Representing an on-topic project? Don't forget to register, more information
+Sep 07 22:38:57 *	- can be found on the https://freenode.net website under "Group Registration".
+Sep 07 22:38:57 *	-  
+Sep 07 22:38:57 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Sep 07 22:38:57 *	- network going for close to two decades.
+Sep 07 22:38:57 *	-  
+Sep 07 22:38:57 *	- Thank you to all of our attendees, sponsors, speakers, exhibitors, helpers,
+Sep 07 22:38:57 *	- and everyone else who made this year's freenode #live conference amazing.
+Sep 07 22:38:57 *	- https://freenode.net/news/live-2018
+Sep 07 22:38:57 *	-  
+Sep 07 22:38:57 *	- Thank you for using freenode!
+Sep 07 22:38:57 *	End of /MOTD command.
+Sep 07 22:38:57 *	manjaroi3 sets mode +i on manjaroi3
+Sep 07 22:38:57 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Sep 07 22:39:03 *	#manjaro #manjaro-unregistered :Forwarding to another channel
+Sep 07 22:39:35 Sysinfo plugin unloaded
+**** BEGIN LOGGING AT Sat Sep  7 23:26:35 2019
+
+Sep 07 23:26:35 *	Welcome to the freenode Internet Relay Chat Network manjaroi3
+Sep 07 23:26:35 *	Your host is livingstone.freenode.net[107.182.226.199/6667], running version ircd-seven-1.1.7
+Sep 07 23:26:35 *	This server was created Thu Aug 23 2018 at 16:12:30 UTC
+Sep 07 23:26:35 *	livingstone.freenode.net ircd-seven-1.1.7 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Sep 07 23:26:35 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Sep 07 23:26:35 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE ETRACE :are supported by this server
+Sep 07 23:26:35 *	KNOCK SAFELIST ELIST=CTU WHOX :are supported by this server
+Sep 07 23:26:35 *	There are 101 users and 80839 invisible on 30 servers
+Sep 07 23:26:35 *	36 :IRC Operators online
+Sep 07 23:26:35 *	22 :unknown connection(s)
+Sep 07 23:26:35 *	47980 :channels formed
+Sep 07 23:26:35 *	I have 6517 clients and 1 servers
+Sep 07 23:26:35 *	6517 8419 :Current local users 6517, max 8419
+Sep 07 23:26:35 *	80940 94773 :Current global users 80940, max 94773
+Sep 07 23:26:35 *	Highest connection count: 8420 (8419 clients) (3018249 connections received)
+Sep 07 23:26:35 *	- livingstone.freenode.net Message of the Day - 
+Sep 07 23:26:35 *	- Welcome to livingstone.freenode.net in NY, USA.
+Sep 07 23:26:35 *	- Welcome to freenode - supporting the free and open source
+Sep 07 23:26:35 *	- software communities since 1998.
+Sep 07 23:26:35 *	-  
+Sep 07 23:26:35 *	- By connecting to freenode you indicate that you have read and
+Sep 07 23:26:35 *	- accept our policies and guidelines as set out on https://freenode.net
+Sep 07 23:26:35 *	-  
+Sep 07 23:26:35 *	- In the event that you observe behaviour that contravenes our policies,
+Sep 07 23:26:35 *	- please notify a volunteer staff member via private message, or send us an
+Sep 07 23:26:35 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Sep 07 23:26:35 *	- situation within a reasonable period of time, and we may request further
+Sep 07 23:26:35 *	- information or, as appropriate, involve other parties such as channel operators 
+Sep 07 23:26:35 *	- Group Contacts representing an on-topic group.
+Sep 07 23:26:35 *	-  
+Sep 07 23:26:35 *	- freenode runs an open proxy scanner.
+Sep 07 23:26:35 *	-  
+Sep 07 23:26:35 *	- If you are looking for assistance, you may be able to find a list of 
+Sep 07 23:26:35 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Sep 07 23:26:35 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Sep 07 23:26:35 *	- any of us at any time. Please note that freenode predominantly provides 
+Sep 07 23:26:35 *	- assistance via private message, and while we have a network channel the 
+Sep 07 23:26:35 *	- primary venue for support requests is via private message to a member 
+Sep 07 23:26:35 *	- of the volunteer staff team.
+Sep 07 23:26:35 *	-  
+Sep 07 23:26:35 *	- From time to time, volunteer staff may send server-wide notices relating to
+Sep 07 23:26:35 *	- the project, or the communities that we host. The majority of such notices
+Sep 07 23:26:35 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Sep 07 23:26:35 *	- do not miss them. Important messages relating to the freenode project, including
+Sep 07 23:26:35 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Sep 07 23:26:35 *	- global notices.
+Sep 07 23:26:35 *	-  
+Sep 07 23:26:35 *	- Representing an on-topic project? Don't forget to register, more information
+Sep 07 23:26:35 *	- can be found on the https://freenode.net website under "Group Registration".
+Sep 07 23:26:35 *	-  
+Sep 07 23:26:35 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Sep 07 23:26:35 *	- network going for close to two decades.
+Sep 07 23:26:35 *	-  
+Sep 07 23:26:35 *	- Thank you to all of our attendees, sponsors, speakers, exhibitors, helpers,
+Sep 07 23:26:35 *	- and everyone else who made this year's freenode #live conference amazing.
+Sep 07 23:26:35 *	- https://freenode.net/news/live-2018
+Sep 07 23:26:35 *	-  
+Sep 07 23:26:35 *	- Thank you for using freenode!
+Sep 07 23:26:35 *	End of /MOTD command.
+Sep 07 23:26:35 *	manjaroi3 sets mode +i on manjaroi3
+Sep 07 23:26:38 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Sep 07 23:26:38 Usage: JOIN <channel>, joins the channel
+Sep 07 23:26:40 *	#manjaro #manjaro-unregistered :Forwarding to another channel
+Sep 07 23:27:04 Sysinfo plugin unloaded

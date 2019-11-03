@@ -1,0 +1,30 @@
+2019/10/03-20:55:23.083 6b93 Reusing MANIFEST /home/lucas/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/10/03-20:55:23.083 6b93 Recovering log #7
+2019/10/03-20:55:23.085 6b93 Reusing old log /home/lucas/.config/google-chrome/Default/Sync Data/LevelDB/000007.log 
+2019/10/03-20:55:40.132 6e33 Level-0 table #11: started
+2019/10/03-20:55:40.360 6e33 Level-0 table #11: 113428 bytes OK
+2019/10/03-20:55:40.570 6e33 Delete type=0 #7
+2019/10/03-22:37:02.058 6e33 Level-0 table #13: started
+2019/10/03-22:37:02.169 6e33 Level-0 table #13: 128951 bytes OK
+2019/10/03-22:37:02.198 6e33 Delete type=0 #10
+2019/10/03-23:32:56.412 6e33 Level-0 table #15: started
+2019/10/03-23:32:56.460 6e33 Level-0 table #15: 92591 bytes OK
+2019/10/03-23:32:56.492 6e33 Delete type=0 #12
+2019/10/06-17:34:19.898 6e33 Level-0 table #17: started
+2019/10/06-17:34:20.015 6e33 Level-0 table #17: 109707 bytes OK
+2019/10/06-17:34:20.039 6e33 Delete type=0 #14
+2019/10/06-17:34:20.039 6e33 Compacting 4@0 + 1@1 files
+2019/10/06-17:34:20.126 6e33 Generated table #18@0: 309 keys, 71068 bytes
+2019/10/06-17:34:20.126 6e33 Compacted 4@0 + 1@1 files => 71068 bytes
+2019/10/06-17:34:20.155 6e33 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/10/06-17:34:20.156 6e33 Delete type=2 #17
+2019/10/06-17:34:20.156 6e33 Delete type=2 #11
+2019/10/06-17:34:20.156 6e33 Delete type=2 #13
+2019/10/06-17:34:20.156 6e33 Delete type=2 #8
+2019/10/06-17:34:20.156 6e33 Delete type=2 #15
+2019/10/06-18:16:20.122 6e33 Level-0 table #20: started
+2019/10/06-18:16:20.213 6e33 Level-0 table #20: 84921 bytes OK
+2019/10/06-18:16:20.243 6e33 Delete type=0 #16
+2019/10/06-18:25:16.250 6e33 Level-0 table #22: started
+2019/10/06-18:25:16.340 6e33 Level-0 table #22: 92809 bytes OK
+2019/10/06-18:25:16.368 6e33 Delete type=0 #19

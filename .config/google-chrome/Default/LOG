@@ -1,0 +1,13 @@
+2019/10/06-17:55:23.552 6cee Recovering log #14
+2019/10/06-17:55:23.552 6cee Level-0 table #16: started
+2019/10/06-17:55:23.629 6cee Level-0 table #16: 795 bytes OK
+2019/10/06-17:55:23.762 6cee Delete type=0 #14
+2019/10/06-17:55:23.762 6cee Delete type=3 #12
+2019/10/06-17:55:23.762 6e33 Compacting 4@0 + 0@1 files
+2019/10/06-17:55:23.839 6e33 Generated table #18@0: 1 keys, 457 bytes
+2019/10/06-17:55:23.839 6e33 Compacted 4@0 + 0@1 files => 457 bytes
+2019/10/06-17:55:23.876 6e33 compacted to: files[ 0 1 0 0 0 0 0 ]
+2019/10/06-17:55:23.877 6e33 Delete type=2 #16
+2019/10/06-17:55:23.877 6e33 Delete type=2 #7
+2019/10/06-17:55:23.877 6e33 Delete type=2 #10
+2019/10/06-17:55:23.877 6e33 Delete type=2 #13

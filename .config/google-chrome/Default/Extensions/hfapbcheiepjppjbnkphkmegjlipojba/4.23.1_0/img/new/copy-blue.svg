@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>blue-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.696 13.3047 0.696 13.3047 14.0006 0 14.0006"></polygon>
+    </defs>
+    <g id="extension-windows-10-roboto" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ext-NC-p_icon2-couponsToTry" transform="translate(-869.000000, -455.000000)">
+            <g id="Group-13" transform="translate(594.000000, 411.000000)">
+                <g id="Group-9-Copy-2">
+                    <g id="Group-25" transform="translate(-1.000000, -52.000000)">
+                        <g id="Group-11-+-Group-11-Copy-+-Group-11-Copy-2-Mask" transform="translate(0.677514, 0.000000)">
+                            <g id="Group-20" transform="translate(26.000000, 13.000000)">
+                                <g id="Group-11-Copy" transform="translate(0.350344, 66.988372)">
+                                    <g id="Group-15" transform="translate(247.941693, 15.040698)">
+                                        <g id="blue-icon" transform="translate(1.500000, 0.000000)">
+                                            <g id="Group-3" transform="translate(0.000000, 0.304300)">
+                                                <mask id="mask-2" fill="white">
+                                                    <use xlink:href="#path-1"></use>
+                                                </mask>
+                                                <g id="Clip-2"></g>
+                                                <path d="M2.3477,0.6956 L10.9557,0.6956 C12.2527,0.6956 13.3047,1.7466 13.3047,3.0436 L13.3047,11.6516 C13.3047,12.9486 12.2527,14.0006 10.9557,14.0006 L2.3477,14.0006 C1.0517,14.0006 -0.0003,12.9486 -0.0003,11.6516 L-0.0003,3.0436 C-0.0003,1.7466 1.0517,0.6956 2.3477,0.6956" id="Fill-1" fill="#00C8E5" mask="url(#mask-2)"></path>
+                                            </g>
+                                            <path d="M6.0527,16.4082 C6.2077,16.9272 6.6887,17.3042 7.2577,17.3042 L15.9557,17.3042 C16.7007,17.3042 17.3047,16.7012 17.3047,15.9562 L17.3047,7.2792 C17.3047,6.6992 16.9177,6.2082 16.3877,6.0522" id="Stroke-4" stroke="#00C8E5" stroke-width="2" stroke-linecap="round"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

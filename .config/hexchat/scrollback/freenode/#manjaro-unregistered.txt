@@ -1,0 +1,6 @@
+T 1567913943 19*	Now talking on 22#manjaro-unregistered
+T 1567913943 22*	Topic for 22#manjaro-unregistered is: To join #manjaro you need to register an account on Freenode: read <http://freenode.net/kb/answer/registration> or ask for help on #freenode | This channel is "quiet", other users won't see what you write | More information about the change: <http://tinyurl.com/y88wbbqf>
+T 1567913943 22*	Topic for 22#manjaro-unregistered set by 26jonathon (24Sat Nov  4 11:01:53 2017)
+T 1567916800 19*	Now talking on 22#manjaro-unregistered
+T 1567916800 22*	Topic for 22#manjaro-unregistered is: To join #manjaro you need to register an account on Freenode: read <http://freenode.net/kb/answer/registration> or ask for help on #freenode | This channel is "quiet", other users won't see what you write | More information about the change: <http://tinyurl.com/y88wbbqf>
+T 1567916800 22*	Topic for 22#manjaro-unregistered set by 26jonathon (24Sat Nov  4 11:01:53 2017)

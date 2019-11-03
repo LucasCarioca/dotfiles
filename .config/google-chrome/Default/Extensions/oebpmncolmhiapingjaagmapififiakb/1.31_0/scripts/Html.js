@@ -1,0 +1,1 @@
+define(["require","exports"],function(e,r){function n(e,r){if(!e)return"";var n=String(e).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");return r&&(n=n.replace(/\r?\n/g,"<br />")),n}r.encode=n});

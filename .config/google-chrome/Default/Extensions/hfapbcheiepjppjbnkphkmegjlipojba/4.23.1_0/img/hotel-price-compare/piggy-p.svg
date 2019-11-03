@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="17px" viewBox="0 0 13 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M167.769345,238.219892 C166.294483,239.361062 164.718751,238.806691 163.257555,237.924337 C163.448882,236.293449 163.736305,234.90229 163.828715,234.704227 C164.039564,234.251659 164.467337,231.743548 166.80729,232.414704 C169.147459,233.085859 168.826196,237.40219 167.769345,238.219892 M168.050695,231.349065 C166.482338,230.502218 164.446946,231.317252 163.482288,232.500086 C162.777721,233.363763 161.956015,234.640395 161.739092,237.308598 C161.775101,237.318655 159.786781,236.07712 159.786781,236.07712 L159,236.903031 C160.437551,238.129583 161.522168,238.745322 161.481604,238.763179 C161.13496,242.473212 162.300056,245 162.300056,245 L163.90941,244.865153 C163.460162,243.073352 163.010046,241.194938 163.140417,239.352236 C163.837392,239.702386 164.346945,239.806241 164.535017,239.838875 C166.426372,240.165627 168.664154,239.718395 169.618617,237.269601 C170.573297,234.820602 169.618617,232.195911 168.050695,231.349065" id="path-1"></path>
+        <filter x="-9.3%" y="-6.1%" width="117.1%" height="119.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.359999996" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="buttons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-158.000000, -230.000000)">
+        <g id="Fill-1">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use stroke="#FFFFFF" stroke-width="0.719999992" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+{
+   "author": "Tamarack Software, Inc.",
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "embed_replace.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Display TestGen Plug-In content.",
+   "homepage_url": "http://www.tamarack-software.com/",
+   "icons": {
+      "128": "TestGen.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8xQ6lec8EurNmecbZghDoEp2YnqxD8d0G4jmxR1gdQfvDpf0N21+Dn/hFvqf0O6Fv6Syr9VGQvYN6WkBDGqUFKzgSPDBQZDX8SHTlBG/KJfwKzQkQP6uYVMjAK6IugKjxrx7RFAU15hadRTwK3gdCdkJ3pc4WQJLuafVQYP9r6dN5uq3l7U3VXlwdw2sG9ZSepe3s/gFnkMYiEgeXzw0yRhBsV4q2WAIJrzKYa7LdanZJkE8JNR5bxasR89so+ovxOWXy4JUaoqdPuPMUDmBCNX0XU2Z3E2yK2CN6JnnSGX80E2dmA9IUA6h+CP3aZy4//2+x41Uslfy/0wLbk7hlQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "31",
+   "name": "TestGen Plug-In",
+   "permissions": [ "nativeMessaging", "http://*/", "https://*/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2",
+   "web_accessible_resources": [ "tgproxyframe.html", "proxyscript.js" ]
+}

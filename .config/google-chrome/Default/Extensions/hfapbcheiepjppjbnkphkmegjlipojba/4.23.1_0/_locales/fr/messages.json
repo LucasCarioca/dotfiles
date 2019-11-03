@@ -1,0 +1,1071 @@
+{
+   "OpensCWSInANewTab": {
+      "message": "Ouvre CWS dans un nouvel onglet"
+   },
+   "PiggyOnAmznBody": {
+      "message": "Piggy vérifie les prix sur Amazon pour vous trouver la meilleure affaire."
+   },
+   "PiggyOnAmznHeader": {
+      "message": "Vérification de prix de Piggy sur "
+   },
+   "aboutPiggyContent": {
+      "message": "La mission de Piggy est d'économiser à nos membres autant d'argent et de temps que nous le pouvons. C'est pourquoi nous avons construit notre coupon gratuit, cash back et extension de comparaison de prix. Lorsque vous visitez l'un des plus de 6.000 magasins que nous soutenons, Piggy recherche automatiquement sur le Web pour s'assurer que vous avez les meilleures économies que ce soit à partir de coupons, cashback, ou des prix plus bas disponibles sur d'autres sites.\nPiggy accéder à toutes vos données sur les sites Web que vous consultez et les modifier pour s'assurer que vous obtenez toujours la meilleure affaire en vous informant automatiquement de et en appliquant automatiquement des coupons, en activant le cashback, et en trouvant des prix moins chers sur les produits, services, activités, événements et réservations de voyages que vous magasinez en ligne.\nLes utilisateurs de Piggy ont confiance en faisant leurs courses parce qu'ils savent que nous leur trouverons les meilleures économies sur Internet sans qu'ils aient jamais à quitter la caisse.\nEt c'est pourquoi tout le monde aime Piggy!"
+   },
+   "aboutPiggyFooter": {
+      "message": "À propos de Piggy"
+   },
+   "aboutPiggyTitle": {
+      "message": "À propos de Piggy"
+   },
+   "activate": {
+      "message": "activer"
+   },
+   "activateAutoTry": {
+      "message": "Appliquer des Bons"
+   },
+   "activateCashBack": {
+      "message": "Activé $cashbackPay$",
+      "placeholders": {
+         "cashbackPay": {
+            "content": "$1"
+         }
+      }
+   },
+   "addToCart": {
+      "message": "Ajouter au panier $storeName$",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "addToCartPay": {
+      "message": "Payer $amount$ de plus",
+      "placeholders": {
+         "amount": {
+            "content": "$1"
+         }
+      }
+   },
+   "addToCartSave": {
+      "message": "Économisez $amount$",
+      "placeholders": {
+         "amount": {
+            "content": "$1"
+         }
+      }
+   },
+   "addedCouponsSaved": {
+      "message": "Piggy vient d'ajouter des codes promos et vous économiser:"
+   },
+   "adding": {
+      "message": "ajout en cours..."
+   },
+   "agree2Terms": {
+      "message": "Je conforme aux Conditions d’Utilisation de Piggy"
+   },
+   "alreadyHaveAccount": {
+      "message": "Vous avez déja un compte ?"
+   },
+   "appDesc": {
+      "message": "Piggy, le seul app qui applique automatiquement les codes promos et les remises en argent sur tous les appareils. Disponible dans Plus de 3600 magasins - Obtenez Piggy maintenant!"
+   },
+   "appIsFree": {
+      "message": "C’est gratuit. Au moins, ceci est le cas pour l’app ! :) C’est une autre histoire pour vos achats. Par contre, nous allons vous aider à trouver les meilleurs codes promos pour minimiser les coûts le plus possible !"
+   },
+   "appName": {
+      "message": "Codes Promo Automatiques, des Bonnes Affaires, et des Remises en Argent!"
+   },
+   "askPiggy": {
+      "message": "Absolument ! Contactez-nous à tout moment sur \u003Ca href='mailto:help@joinpiggy.com'>help@joinpiggy.com\u003C/a>"
+   },
+   "at": {
+      "message": "à"
+   },
+   "autoCompleteText": {
+      "message": "Entrez le nom du magasin ici"
+   },
+   "autoTryCoupons": {
+      "message": "Essayer les Codes Promos Automatiquement"
+   },
+   "availableCoupons": {
+      "message": "Codes Promos Disponibles"
+   },
+   "back": {
+      "message": "Retour"
+   },
+   "backToCart": {
+      "message": "Retour au Panier"
+   },
+   "backToLogin": {
+      "message": "Retourner à la Connexion"
+   },
+   "bankIsEmpty": {
+      "message": "La tirelire est vide"
+   },
+   "bestCouponsSaveMoney": {
+      "message": "Piggy recherche les meilleurs Coupons et Codes Promos et vous aide à faire des économies ! Tel éligible, vous pouvez également gagner du Cashback sur les articles via notre app."
+   },
+   "bestPrice": {
+      "message": "Meilleur prix"
+   },
+   "bestPriceHPC": {
+      "message": "Best Price"
+   },
+   "bingoBestPrice": {
+      "message": "Bingo ! Ceci est effectivement le meilleur prix de tous les vendeurs de cet article"
+   },
+   "butWeSavedYouTime": {
+      "message": "mais nous vous avons gagné du temps !"
+   },
+   "buyFromSeller1": {
+      "message": "en achetant auprès d'un "
+   },
+   "buyFromSeller2": {
+      "message": "autre vendeur Amazon."
+   },
+   "buyFromThisSeller": {
+      "message": "si vous achetez chez ce vendeur"
+   },
+   "casbackEnabledTextMessageAfter": {
+      "message": "cash back"
+   },
+   "cashBackActivated": {
+      "message": "$cashbackPayActivated$ Activé!",
+      "placeholders": {
+         "cashbackPayActivated": {
+            "content": "$1"
+         }
+      }
+   },
+   "cashback": {
+      "message": "Cash Back"
+   },
+   "cashbackActivatePopupText": {
+      "message": "CASHBACK"
+   },
+   "cashbackEnabledTextMessage": {
+      "message": "possède normalement des codes promos pour essayer au stade de paiement, mais il n’y a aucune code valide aujourd'hui. Cependant, Piggy vous a trouvé jusuqu'à"
+   },
+   "cashbackEnabledTextMessageBold": {
+      "message": "$cashbackAmount$ cashback",
+      "placeholders": {
+         "cashbackAmount": {
+            "content": "$1"
+         }
+      }
+   },
+   "cashbackEnabledTitle": {
+      "message": "Cashback Activé"
+   },
+   "changePopupAlert": {
+      "message": "Comment modifier la notification Popup ?"
+   },
+   "checkPrivacyTerms": {
+      "message": "Consultez la \u003Ca href='https://joinpiggy.fr/privacy' target='_blank'>Politique de Confidentialité et les Conditions d'Utilisation sur notre site Web\u003C/a>. Bref, la réponse c'est NON. Nous ne communiquons au vendeurs aucun détail de vos achats ailleurs. Nous surveillons votre Cashback et vous rémunérons vos remises automatiques. C'est tout !"
+   },
+   "checkYourEmail": {
+      "message": "Veuillez consulter votre messagerie d'email afin de réinitialiser votre mot de passe."
+   },
+   "checkingPrices": {
+      "message": "Vérification des prix..."
+   },
+   "claimEarnedRebates": {
+      "message": "pour gagner les rabais."
+   },
+   "claimEarnings": {
+      "message": "Réclamez vos gains"
+   },
+   "claimEarningsButtonText": {
+      "message": "Retourner au Gains"
+   },
+   "claimEarningsFailButtonText": {
+      "message": "Retourner au Gains"
+   },
+   "claimEarningsFailHeadingText": {
+      "message": "Traitement en cours"
+   },
+   "claimEarningsSuccessHeadingText": {
+      "message": "Soumis avec succès"
+   },
+   "claimEarningsSuccessSubHeadingText": {
+      "message": "Nous traiterons votre demande et revenons à vous avec plus amples informations"
+   },
+   "claimEarningseFailSubHeadingText": {
+      "message": "Veuillez retourner après 7 jours. Les vendeurs nous notifient du Cashback après quelques jours ouvrables suite à la passage des commandes."
+   },
+   "claimYourCashback": {
+      "message": "pour réclamer votre cash back."
+   },
+   "code": {
+      "message": "CODE"
+   },
+   "codes": {
+      "message": "CODES"
+   },
+   "condition": {
+      "message": "État:"
+   },
+   "conditionNew": {
+      "message": "Neuf"
+   },
+   "conditionUsed": {
+      "message": "Utilisé"
+   },
+   "congratulations": {
+      "message": "Félicitations !"
+   },
+   "connectFB": {
+      "message": "Se connecter avec Facebook"
+   },
+   "connectGPLUS": {
+      "message": "Se Connecter avec Google+"
+   },
+   "connectGPlus": {
+      "message": "Se connecter avec Google+"
+   },
+   "contactPiggySupport": {
+      "message": "Contacter le Service Client Piggy"
+   },
+   "contactSupport": {
+      "message": "Contactez le Service Clients"
+   },
+   "continueShopping": {
+      "message": "Continuer vos achats"
+   },
+   "copiedCouponText": {
+      "message": "Copié"
+   },
+   "copy": {
+      "message": "copier"
+   },
+   "copy2Clip": {
+      "message": "Copier vers le presse-papier"
+   },
+   "copyCouponText": {
+      "message": "Copier"
+   },
+   "couponDaysLeft": {
+      "message": "$expiresDays$ jours restant",
+      "placeholders": {
+         "expiresDays": {
+            "content": "$1"
+         }
+      }
+   },
+   "couponEnds": {
+      "message": "Se Termine aujoud'hui !"
+   },
+   "coupons": {
+      "message": "Codes Promos"
+   },
+   "couponsAreNotWorking": {
+      "message": "Les coupons ne fonctionnent pas ici,"
+   },
+   "couponsHeadingText": {
+      "message": "Nous avons trouvé des codes promos pour vous !"
+   },
+   "couponsSubHeadingBoldText": {
+      "message": "Piggy vous rappelera à nouveau"
+   },
+   "couponsSubHeadingText": {
+      "message": "Vous n'avez pas encore passé la commande."
+   },
+   "couponsSubHeadingTextAfter": {
+      "message": " lors du passage de commande."
+   },
+   "createAccount": {
+      "message": "Créer un compte"
+   },
+   "createAccountError": {
+      "message": "Une erreur s'est produite"
+   },
+   "createAccountHPC": {
+      "message": "Créer un compte"
+   },
+   "createAccountHere": {
+      "message": "créez un compte ici"
+   },
+   "createAccountLogin": {
+      "message": "Se Connecter"
+   },
+   "createAccountSignIn": {
+      "message": "Créer un compte"
+   },
+   "createFreeAccount": {
+      "message": "Créer votre compte"
+   },
+   "customSupport": {
+      "message": "Service clients"
+   },
+   "customerProvider": {
+      "message": "LE SERVICE CLIENTS FOURNI PAR getaroom.com"
+   },
+   "dealsViaEmail": {
+      "message": "Je veux recevoir des offres par email"
+   },
+   "didItWork": {
+      "message": "A-t-il fonctionné ?"
+   },
+   "disablePiggy": {
+      "message": "Oui - Vous pouvez désactiver la notification « Piggy ça fonctionne ici ! » dan l'espace PARAMETRES."
+   },
+   "domainNotSupported": {
+      "message": "Magasin non"
+   },
+   "dontHaveCoupons": {
+      "message": "Les codes promos, pourquoi ne sont-elles pas toujours disponibles ?"
+   },
+   "earnCashBackCouponsDeals": {
+      "message": "Gagner facilement le Cashback en utilisant les codes promos et les offres de Piggy"
+   },
+   "earnCashBackFAQ": {
+      "message": "Comment puis-je gagner du Cashback ?"
+   },
+   "earnCashback": {
+      "message": "Obtenez du Cashback"
+   },
+   "earnCashbackHotel": {
+      "message": "Les utilisateurs Piggy profitent de $cashback$ de Cashback et d’un taux plus bas de $amount$ sur cet hôtel",
+      "placeholders": {
+         "amount": {
+            "content": "$2"
+         },
+         "cashback": {
+            "content": "$1"
+         }
+      }
+   },
+   "earnEveryRefer": {
+      "message": "Gagner $amount$ pour chaque parraigné.",
+      "placeholders": {
+         "amount": {
+            "content": "$1"
+         }
+      }
+   },
+   "earnUpTo": {
+      "message": "Gagnez jusqu'à $cashBack$% de remise en argent",
+      "placeholders": {
+         "cashBack": {
+            "content": "$1"
+         }
+      }
+   },
+   "earningDetails": {
+      "message": "Gains en détail"
+   },
+   "earnings": {
+      "message": "Gains"
+   },
+   "earningsClaim": {
+      "message": "Gains > Réclamation"
+   },
+   "earningsDetails": {
+      "message": "Gains > Détails"
+   },
+   "earningsPayments": {
+      "message": "Gains > Paiement "
+   },
+   "earningsPopupClose": {
+      "message": "fermer"
+   },
+   "earningsPopupConfirmed": {
+      "message": "Remise en argent confirmée par la boutique"
+   },
+   "earningsPopupSent": {
+      "message": "Vérification de remise différée envoyée"
+   },
+   "earningsPopupWaiting": {
+      "message": "En attente de la confirmation de la boutique"
+   },
+   "ebayLoginActivateButton": {
+      "message": "Activer le Cash Back"
+   },
+   "ebayLoginActivateCashback1": {
+      "message": "Veuillez cliquer sur le bouton ci-dessus "
+   },
+   "ebayLoginActivateCashback2": {
+      "message": "pour activer jusqu'à "
+   },
+   "ebayLoginActivateCashback3": {
+      "message": "sur l'achat d'aujourd'hui sur eBay."
+   },
+   "ebayLoginActivatedBodyMessage": {
+      "message": "Piggy affichera vos gains de cashback après l'expédition de votre commande."
+   },
+   "ebayLoginActivatedButton": {
+      "message": "Cashback Activé"
+   },
+   "ebayLoginActivatedCashback1": {
+      "message": "Vous gagnez jusqu'à "
+   },
+   "ebayLoginActivatedCashback2": {
+      "message": " sur cet achat."
+   },
+   "ebayLoginCloseWindow": {
+      "message": "Vous pouvez maintenant fermer cette fenêtre."
+   },
+   "ebayNormallyHasCoupons": {
+      "message": "En général, Ebay possède des codes promos à essayer lors passage d'une commande, mais aucun code fonctionne aujourd’hui. Au moins, Piggy a trouvé jusqu’à "
+   },
+   "email": {
+      "message": "Email"
+   },
+   "email2ResetPassword": {
+      "message": "INSÉREZ VOTRE EMAIL POUR RÉINITIALISER VOTRE MOT DE PASSE"
+   },
+   "emailExists": {
+      "message": "Cet adresse email est déjà inscrite"
+   },
+   "emailFormat": {
+      "message": "Format de l'e-mail invalide"
+   },
+   "emailSent": {
+      "message": "Email envoyé"
+   },
+   "enterEmailAdd": {
+      "message": "Veuillez entrer votre adresse email attribué à votre compte Piggy"
+   },
+   "enterMessage": {
+      "message": "Veuillez composer un message."
+   },
+   "enterSubject": {
+      "message": "Veuillez définir un sujet."
+   },
+   "enterValidEmail": {
+      "message": "Veuillez entrer une adresse email valide"
+   },
+   "errorTitle": {
+      "message": "Erreur"
+   },
+   "faqTitle": {
+      "message": "Foire aux Questions"
+   },
+   "faqs": {
+      "message": "FAQs"
+   },
+   "fieldRequired": {
+      "message": "Ce champ est obligatoire"
+   },
+   "findLowerPrices": {
+      "message": "Trouve-moi des prix plus bas chez:"
+   },
+   "forgotPassword": {
+      "message": "Mot de passe oublié ?"
+   },
+   "freeShippingOnOrders": {
+      "message": "La livraison gratuite sur toutes les commandes montant plus de $amount$",
+      "placeholders": {
+         "amount": {
+            "content": "$1"
+         }
+      }
+   },
+   "getMeDeal": {
+      "message": "Donnez-moi cet Offre"
+   },
+   "getPiggyCashBackCheck": {
+      "message": "Que dois-je faire pour recevoir mon chèque de Cashback Piggy ?"
+   },
+   "gettingTheBestDealHeader": {
+      "message": "Il semblerait que vous ayez obtenu la meilleure offre."
+   },
+   "gettingTheBestDealSubHeader": {
+      "message": "$storeName$ n'avait aucun coupon pour vos produits aujourd'hui. Il semblerait que vous ayez obtenu la meilleure offre.",
+      "placeholders": {
+         "storeName": {
+            "content": "$1"
+         }
+      }
+   },
+   "go": {
+      "message": "Aller"
+   },
+   "goBack": {
+      "message": "Retour"
+   },
+   "goBackToCheckout": {
+      "message": "Pas maintenant, retournez au paiement"
+   },
+   "hasCashbackAutoCoupons": {
+      "message": "$store$ a 6.0% Cashback + Codes Promos automatiques",
+      "placeholders": {
+         "store": {
+            "content": "$1"
+         }
+      }
+   },
+   "haveCustomerService": {
+      "message": "Avez-vous le Service Clients ?"
+   },
+   "headerPayMore": {
+      "message": "Payez $amount$ de plus",
+      "placeholders": {
+         "amount": {
+            "content": "$1"
+         }
+      }
+   },
+   "here": {
+      "message": "ici"
+   },
+   "hideFloatingBox": {
+      "message": "Cacher"
+   },
+   "how2EarnCashback": {
+      "message": "Comment puis-je gagner du Cashback ?"
+   },
+   "howMuchCost": {
+      "message": "Combien ça coûte ?"
+   },
+   "howPiggyWork": {
+      "message": "Piggy, comment ça marche ?"
+   },
+   "importantLoggedIn": {
+      "message": "ATTENTION: Il faut que vous vous êtes connecté(e) en à tout temps ! Tout simplement, incrivez-vous gratuitement au www.joinpiggy.fr - et le Cashback sera traqué automatiquement dans toute les boutiques Piggy à l'utilisation de nos codes promos, d'un essai codes, ou en cliquant Activer le Cashback !"
+   },
+   "included": {
+      "message": "Inclus"
+   },
+   "incorrectEmailPass": {
+      "message": "L’adresse email ou le mot de passe n’est pas correcte"
+   },
+   "insertYourEmail": {
+      "message": "Insérez votre adresse email"
+   },
+   "invalidEmailOrPassword": {
+      "message": "L'email ou mot de passe est non-valide"
+   },
+   "itemPrice": {
+      "message": "Prix de l'article"
+   },
+   "itemsAddTo": {
+      "message": "Les Articles Récemment Ajoutés au Panier de "
+   },
+   "itemsAddToCart": {
+      "message": ""
+   },
+   "justLogin": {
+      "message": "Connectez-vous, ou créez un compte gratuit sur \u003Ca href='https://joinpiggy.fr' target='_blank'>www.joinpiggy.fr\u003C/a> ! Les achats faites seront désormais attribués à votre compte. Vous pouvez vérifier le statut de Cashback et de récompenses que vous aviez gagné dans les 24 heures dès l’envoi de votre commande."
+   },
+   "loading": {
+      "message": "Chargement en cours…..."
+   },
+   "login": {
+      "message": "Se Connecter"
+   },
+   "login4Lower": {
+      "message": "Se Connecter pour accéder un Prix Plus Bas"
+   },
+   "loginFB": {
+      "message": "Se Connecter avec Facebook"
+   },
+   "loginForCashback": {
+      "message": "Connectez-vous pour obtenir le cashback"
+   },
+   "loginHeaderTitle": {
+      "message": "Se connecter"
+   },
+   "loginHeaderTitleLink": {
+      "message": "ici"
+   },
+   "loginOr": {
+      "message": "Connectez-vous ou"
+   },
+   "loginToAmazon": {
+      "message": "Se connecter à Amazon"
+   },
+   "loginToEarnCashback": {
+      "message": "Connecter vous pour gagner du Cashback "
+   },
+   "loginToPiggy": {
+      "message": "Se connecter à Piggy"
+   },
+   "loginToPiggyLoginText": {
+      "message": "Connectez-vous"
+   },
+   "loginViaFB": {
+      "message": "Se connecter via Facebook"
+   },
+   "loginYourAccount": {
+      "message": "CONNECTEZ-VOUS À VOTRE COMPTE POUR PROFITER DE CET OFFRE"
+   },
+   "logout": {
+      "message": "Déconnexion"
+   },
+   "maximum": {
+      "message": "Le $fieldName$ ne doit pas dépasser $number$ plus de caractères",
+      "placeholders": {
+         "fieldName": {
+            "content": "$1"
+         },
+         "number": {
+            "content": "$2"
+         }
+      }
+   },
+   "minimum": {
+      "message": "Le $fieldName$ doit comporter au moins $number$ caractères",
+      "placeholders": {
+         "fieldName": {
+            "content": "$1"
+         },
+         "number": {
+            "content": "$2"
+         }
+      }
+   },
+   "missingCashBack": {
+      "message": "Pas assez de Cashback ?"
+   },
+   "neverOverpayAgain": {
+      "message": "ne payer jamais trop cher."
+   },
+   "neverShowAgain": {
+      "message": "Ne plus afficher"
+   },
+   "noActiveAccount": {
+      "message": "Il n’existe aucun compte associé à cet adresse email."
+   },
+   "noAssociatedEmail": {
+      "message": "Il n’existe aucun compte associé à cet adresse email"
+   },
+   "noAutoTryCouponSubHeadingAfter": {
+      "message": " lors du passage de commande."
+   },
+   "noAutoTryCouponSubHeadingBoldText": {
+      "message": "Piggy vous rappelera à nouveau"
+   },
+   "noCouponCode": {
+      "message": "Aucun code promo ?"
+   },
+   "noCouponCodeMessage": {
+      "message": "Vous pouvez toujours gagner du cashback sur vos achats !"
+   },
+   "noCouponNoCashback": {
+      "message": "Piggy ne dispose couramment pas de Cashback ni de codes promos"
+   },
+   "noCouponToday": {
+      "message": "Les Coupons ne fonctionnent pas ici, mais nous vous a gagné du temps !"
+   },
+   "noCouponsActivatedCashback": {
+      "message": "n’a pas de coupons pour votre achat, mais Piggy vous a gagné du temps ! En plus, nous avons activé le Cashback pour cette commande !"
+   },
+   "noCouponsButHasCashback": {
+      "message": "paye jusqu'à $cashbackAmount$ de cash back ici.",
+      "placeholders": {
+         "cashbackAmount": {
+            "content": "$1"
+         }
+      }
+   },
+   "noCouponsWorked": {
+      "message": "n'avait aucun code promo pour les articles dans votre panier, mais Piggy "
+   },
+   "notLogin": {
+      "message": "Vous vous n'êtes pas encore connecté(é)"
+   },
+   "notNow": {
+      "message": "Pas Maintenant"
+   },
+   "notNowBackToCart": {
+      "message": "Pas maintenant, retourner au panier"
+   },
+   "numberFormat": {
+      "message": "Format de Numéro Non-valide"
+   },
+   "onlyAppearLowerPrice": {
+      "message": "Afficher seulement s'il existe un prix plus bas"
+   },
+   "onlyHasCashback": {
+      "message": "$store$ a seulement 2,0% Cashback",
+      "placeholders": {
+         "store": {
+            "content": "$1"
+         }
+      }
+   },
+   "openInquiryButtonText": {
+      "message": "Effectuer une Demande"
+   },
+   "openInquiryCity": {
+      "message": "Ville"
+   },
+   "openInquiryEmail": {
+      "message": "Email"
+   },
+   "openInquiryHeadingText": {
+      "message": "Entrez les détails de votre commande"
+   },
+   "openInquiryOrderAmount": {
+      "message": "Montant de la commande"
+   },
+   "openInquiryOrderDate": {
+      "message": "Date de la commande"
+   },
+   "openInquiryOrderID": {
+      "message": "ID de la commande"
+   },
+   "openInquiryState": {
+      "message": "Provence/Localité"
+   },
+   "openInquiryStorName": {
+      "message": "Nom du magasin"
+   },
+   "openInquiryZipCode": {
+      "message": "Code Postale"
+   },
+   "openPiggy": {
+      "message": "Ouvrir Piggy"
+   },
+   "or": {
+      "message": "ou"
+   },
+   "originalPrice": {
+      "message": "Prix d'origine"
+   },
+   "ourInfo": {
+      "message": "Vendez-vous nos renseignements personnels ?"
+   },
+   "password": {
+      "message": "Mot de Passe"
+   },
+   "piggyAlertYou": {
+      "message": "La prochaine fois que vous rendez visite dans un de nos magasin, Piggy vous notifiera de tous les codes promos ou bons plans disponibles"
+   },
+   "piggyAutomaticRebate": {
+      "message": "Le Cashback Piggy c'est comme une Remise en Argent Automatique(tm). Pour chaque magasin où le Cashback est admissible, il fait un versement dans votre compte Piggy (comme un tirelire/cagnotte). Et s'il grossit assez, nous vous envoyons un cheque (ou une Carte Cadeaux) !"
+   },
+   "piggyAutomaticRebateEuro": {
+      "message": "Le Cashback Piggy c'est comme une Remise en Argent Automatique(tm). Pour chaque magasin où le Cashback est admissible, il fait un versement dans votre compte Piggy (comme un tirelire/cagnotte). Et s'il grossit assez, nous vous envoyons un cheque (ou une Carte Cadeaux) !"
+   },
+   "piggyBank": {
+      "message": "Qu'y-a-t-il dans votre tirelire ?"
+   },
+   "piggyBankEmpty": {
+      "message": "Votre tirelire est vide"
+   },
+   "piggyButtonSave": {
+      "message": "Économisez"
+   },
+   "piggyIsReady": {
+      "message": "Piggy est prêt"
+   },
+   "piggyNapping": {
+      "message": "Piggy fait une sieste"
+   },
+   "piggyOnAmazon": {
+      "message": "Piggy sur Amazon"
+   },
+   "piggyReadyFindBestDeals": {
+      "message": "Piggy est prêt à découvrer les meilleurs bons plans pour vous !"
+   },
+   "piggyRemovesGarbage": {
+      "message": "Piggy aime bien faire le nettoyage. Un grand nombre de sites garde des anciens ou des codes invalides. Si vous les cliquez, les sites reçoivent une commission. Cela ne gêne pas Piggy, nous voulons tout simplement vous aider à faire des économies."
+   },
+   "piggyReportsNextBusinessDay": {
+      "message": "En général, Piggy effectue une déclaration des gains le prochain jour ouvrable dès l'éxpédition de votre commande. C'est à ce moment que Piggy sera notifié que vous avez acheté quelquechose dans le magasin."
+   },
+   "piggySnoozing": {
+      "message": "Piggy est en sommeil parce qu’il ne reconnaît pas ce domaine Web"
+   },
+   "piggyWillEarn": {
+      "message": "Piggy vous gagnera"
+   },
+   "piggysAwesome": {
+      "message": "Piggy c'est super, puisqu'il est développé par une équipe également super. Nous mettons en place des produits tres aimés. Cet app Piggy brevé déposé est gratuit grâce à nos commerçants partenaires, ils nous rémunèrent pour que vous ne manquez aucune annonce de soldes ou codes promos via l'app (ou via email si inscris). Il n'y a aucune piège. Nous sommes juste SUPER !"
+   },
+   "plusActivateUpTo": {
+      "message": "en plus, activer jusqu’à $cashbackAmount$.",
+      "placeholders": {
+         "cashbackAmount": {
+            "content": "$1"
+         }
+      }
+   },
+   "prevPayments": {
+      "message": "Historique des paiements"
+   },
+   "priceCheckUnavailable": {
+      "message": "Vérification des prix non disponible"
+   },
+   "priceCheckUnavailableHeader": {
+      "message": "Nous ne sommes pas en mesure de vérifier les prix de cet article."
+   },
+   "priceCheckUnavailableSubText": {
+      "message": "Cela est souvent dû à un élément utilisé, indisponible, une catégorie que nous ne soutenons pas actuellement, ou seulement étant remplie par des tiers au sein de l'Amazon Marketplace."
+   },
+   "privacyPolicy": {
+      "message": "Politique de conf."
+   },
+   "reEnterYourPassword": {
+      "message": "Veuillez entrer à nouveau votre mot de passe pour afficher les détails de votre transaction"
+   },
+   "reLogin": {
+      "message": "Veuillez reconnecter afin de voir vos transactions en détails"
+   },
+   "readyToSave": {
+      "message": "Prêt à faire des économies"
+   },
+   "readyToSaveBody": {
+      "message": "La prochaine fois que vous rendez visite dans un de nos magasin, Piggy vous notifiera de tous les codes promos ou bons plans disponibles."
+   },
+   "readyToSaveCreateAccount": {
+      "message": "Créer votre compte"
+   },
+   "readyToSaveHeader": {
+      "message": "Piggy est prêt à découvrer les meilleurs bons plans pour vous !"
+   },
+   "readyToSaveLogin": {
+      "message": "Connecter vous pour gagner du Cashback "
+   },
+   "receiveCheckCashbackEarnings1": {
+      "message": "Vous recevrez votre chèque dès que vous avez $amount$ ou plus comme gains de Cashback verrouillés",
+      "placeholders": {
+         "amount": {
+            "content": "$1"
+         }
+      }
+   },
+   "receiveCheckCashbackEarnings2": {
+      "message": "Les checks sont diffusés chaque trimestre pour les montants verrouillés de plus de $amount$",
+      "placeholders": {
+         "amount": {
+            "content": "$1"
+         }
+      }
+   },
+   "redirecting": {
+      "message": "Redirection En cours..."
+   },
+   "referrals": {
+      "message": "Parrainage"
+   },
+   "register": {
+      "message": "Inscrivez-vous"
+   },
+   "requestToAddSite": {
+      "message": "Faire une enquête d'ajouter ce site"
+   },
+   "resetPassEmail": {
+      "message": "Email"
+   },
+   "resetPassword": {
+      "message": "Réinitialiser le Mot de Passe"
+   },
+   "save": {
+      "message": "Économisez"
+   },
+   "saveYourTimeAndApplied": {
+      "message": "Du temps gagné et appliqué le"
+   },
+   "seeCode": {
+      "message": "Consultez les code promo"
+   },
+   "seeCodes": {
+      "message": "Consultez les codes promos"
+   },
+   "seeCouponCode": {
+      "message": "Consultez les code promo"
+   },
+   "seeCouponCodes": {
+      "message": "Consultez les codes promos"
+   },
+   "seeTerms": {
+      "message": "Consultez les Conditions pour plus amples informations"
+   },
+   "selectOrderDateButtonText": {
+      "message": "Accepter et Choisir un magasin"
+   },
+   "selectOrderDateHeadingText": {
+      "message": "A quel moment avez-vous passé cette commande ?"
+   },
+   "selectStoreNameButtonText": {
+      "message": "Accepter et Continuer aux Détails de la Commande"
+   },
+   "selectStoreNameHeadingText": {
+      "message": "Duquel magasin avez-vous passé cette commande ?"
+   },
+   "sendResetLink": {
+      "message": "Envoyez-moi un lien de réinitialisation"
+   },
+   "sessionExpired": {
+      "message": "La session a expiré"
+   },
+   "sharePiggyWithFriends": {
+      "message": "Partager Piggy avec vos amis"
+   },
+   "shareViaEmailBody": {
+      "message": "Salut,\n\nJe viens de trouver cette super extension que vous devez voir sans délai. Elle vous gagnera du temps et des économies en testant les codes promos sur vos magasins préférés, en plus, vous gagnez le Cashback avec des milliers de sites.\n\nEn savoir plus, aller à $url$.",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "shareViaEmailSubject": {
+      "message": "Avez-vous entendu parler de Piggy ?"
+   },
+   "shareViaTwitter": {
+      "message": "Piggy - Coupons & Cashback!"
+   },
+   "shareWithFriends": {
+      "message": "Partager avec vos Amis"
+   },
+   "shipping": {
+      "message": "Livraison (estim.)"
+   },
+   "shippingArrives": {
+      "message": "Arrive le"
+   },
+   "signInActivateCashBack": {
+      "message": "Se Connecter pour Activer le Cashback"
+   },
+   "signInToActivate": {
+      "message": "Se connecter pour activer"
+   },
+   "signInToActivateText": {
+      "message": "Se Connecter pour Activer"
+   },
+   "siteRequested": {
+      "message": "Enquête d'ajouter ce site soumise!"
+   },
+   "stillHaveQuestion": {
+      "message": "Plus de questions à poser ?"
+   },
+   "storeHas": {
+      "message": "a"
+   },
+   "storeHasNoCashback": {
+      "message": "$store$ n'a pas de Cashback",
+      "placeholders": {
+         "store": {
+            "content": "$1"
+         }
+      }
+   },
+   "storeInfo": {
+      "message": "Info Boutique"
+   },
+   "storeOffersCashback": {
+      "message": "a jusqu'à"
+   },
+   "storeOnlyHasCashback": {
+      "message": "$store$ a seulement le Cashback",
+      "placeholders": {
+         "store": {
+            "content": "$1"
+         }
+      }
+   },
+   "successMsgSentBody": {
+      "message": "Nous reviendrons vers vous rapidement"
+   },
+   "successMsgSentButton": {
+      "message": "Retour aux Gains"
+   },
+   "successMsgSentHeader": {
+      "message": "Message envoyé"
+   },
+   "suppEmail": {
+      "message": "Email"
+   },
+   "suppMsg": {
+      "message": "Message"
+   },
+   "suppSendMsg": {
+      "message": "Envoyer le Message"
+   },
+   "suppSubj": {
+      "message": "Sujet"
+   },
+   "suppTalkToUs": {
+      "message": "Contactez-nous"
+   },
+   "support": {
+      "message": "Aide"
+   },
+   "takeMeToCart": {
+      "message": "Aller au Panier"
+   },
+   "tax": {
+      "message": "Taxe (est.)"
+   },
+   "terms": {
+      "message": "Conditions"
+   },
+   "termsConditions": {
+      "message": "Termes et Conditions"
+   },
+   "termsError": {
+      "message": "Vous devez accepter nos Conditions d'Utilisation"
+   },
+   "theBestPrice": {
+      "message": "Voici le meilleur prix !"
+   },
+   "thisStore": {
+      "message": "ce magasin"
+   },
+   "toAutotry": {
+      "message": "À ESSAYER AUTOMATIQUEMENT"
+   },
+   "toGoFurther": {
+      "message": "pour continuer"
+   },
+   "tryAllAvailableCoupons": {
+      "message": "Essayer automatiquement tous les codes promos disponibles,"
+   },
+   "tryAllAvailableCouponsAnd": {
+      "message": "Essayer tous les codes promos et"
+   },
+   "tryCode": {
+      "message": "Essai des Code"
+   },
+   "tryCodes": {
+      "message": "Essai des Codes"
+   },
+   "tryingCodesOf": {
+      "message": "Essai de code $queueNumber$ sur",
+      "placeholders": {
+         "queueNumber": {
+            "content": "$1"
+         }
+      }
+   },
+   "verifyInfo": {
+      "message": "Veuillez vérifier vos coordonnées"
+   },
+   "verifyPayAddress": {
+      "message": "Vérifier l’Adresse de Paiement"
+   },
+   "viewAnswers": {
+      "message": "Veuillez cliquer pour afficher la réponse"
+   },
+   "visit": {
+      "message": "Visiter $store$",
+      "placeholders": {
+         "store": {
+            "content": "$1"
+         }
+      }
+   },
+   "whenCashbackShow": {
+      "message": "Quand constaterons-nous le Cashback ?"
+   },
+   "whyFree": {
+      "message": "Comment cela est-il gratuit ?"
+   },
+   "writeAReviewLongText": {
+      "message": "Communiquez vos avis et pour que Piggy reste gratuit"
+   },
+   "writeAReviewShortText": {
+      "message": "Rédiger un avis"
+   },
+   "writeAReviewTextAfter": {
+      "message": ""
+   },
+   "youAlreadySaved": {
+      "message": "Vous avez déjà économisé"
+   }
+}

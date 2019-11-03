@@ -1,0 +1,40 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/jquery.min.js", "js/config.js", "js/tracking.js", "js/providers.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "18": "icons/tail/v1/gray_19.png"
+      },
+      "default_title": "Piggy - Coupons & Cashback!"
+   },
+   "content_scripts": [ {
+      "css": [  ],
+      "js": [ "js/jquery.min.js", "js/config.js", "js/inject.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com https://www.googletagmanager.com; object-src 'self'",
+   "default_locale": "en_US",
+   "description": "__MSG_appDesc__",
+   "homepage_url": "https://www.joinpiggy.com",
+   "icons": {
+      "128": "icons/coin128.png",
+      "16": "icons/tail/v1/gray_19.png",
+      "256": "icons/coin256.png",
+      "48": "icons/coin48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhb/WZcf+vKWoza4xXwAjZ+C2SjcPx5ArWeNjqF1WJn8dIZhVRptLAAv/pq6kwE+vY3zy1ySt6fqG4RTvNoOp+K2d70ucmbvNJudwFQsJBp6BVyqavo0Olln2rqv8qjqLsg51FVqB+3oPwoeaKWjSZsq7ODZQn/wB9O7ch0zy461lv2c4/BGItwwq0qIan2USIOq0Q5ulfvlB4AzgPJzAG34LpgIB/GdCLEocvSEdRArNG3UUzQqlA9bqdkS9ua3k9TPkDhe6Ec2ver9QgGounKq6OVwM+NH1nXmysmrh1RTPts7XHl2SsiKwUhhmSni/uP4dPXrM3kK0z5lz9MUAiQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "options/options.html"
+   },
+   "permissions": [ "http://*/*", "https://*/*", "activeTab", "tabs", "webRequest", "storage" ],
+   "short_name": "Piggy",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.23.1",
+   "web_accessible_resources": [ "fonts/*", "img/*", "css/*", "*.json" ]
+}
